@@ -1,4 +1,4 @@
-# Windows NT 3.5x SVAGE driver for VMware Player/Workstation
+# Windows NT 3.5x SVAGE driver for VMware Fusion/Player/Workstation
 This driver allows you to use high resolutions and colors on Windows NT 3.5x.
 ## Installation guide
 1. Set the diskette to the file you have to download.
